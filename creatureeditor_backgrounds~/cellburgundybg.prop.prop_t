@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_cellburgundy_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 25
+key editorBGThumbNail cellburgundyroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

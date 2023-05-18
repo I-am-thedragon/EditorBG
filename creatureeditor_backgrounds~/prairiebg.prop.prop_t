@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_prairie_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 34
+key editorBGThumbNail prairieroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

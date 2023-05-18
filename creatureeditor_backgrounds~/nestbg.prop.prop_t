@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_nest_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 32
+key editorBGThumbNail nestroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

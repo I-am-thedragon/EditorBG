@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_circuit_mode_entry
+key editorBGLighting circuitlights
+int32 editorBGOrder 37
+key editorBGThumbNail circuitroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

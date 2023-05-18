@@ -1,0 +1,6 @@
+key editorBGEntryEffect editor_crystal_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 16
+key editorBGThumbNail crystalroomthumb
+uint32 editorDaisType hash(rock)
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_metaphysical_mode_entry
+key editorBGLighting metalights
+int32 editorBGOrder 18
+key editorBGThumbNail metaphysicalroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

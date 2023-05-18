@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_hero_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 35
+key editorBGThumbNail heroroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

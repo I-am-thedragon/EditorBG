@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_deepsea_mode_entry
+key editorBGLighting nightlights
+int32 editorBGOrder 12
+key editorBGThumbNail deepsearoomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

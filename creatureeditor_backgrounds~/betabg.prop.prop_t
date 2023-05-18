@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_beta_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 15
+key editorBGThumbNail betaroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

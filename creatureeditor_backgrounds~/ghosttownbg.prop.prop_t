@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_ghosttown_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 28
+key editorBGThumbNail ghosttownroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

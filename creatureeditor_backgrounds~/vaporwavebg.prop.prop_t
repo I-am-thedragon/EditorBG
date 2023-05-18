@@ -1,0 +1,6 @@
+key editorBGEntryEffect editor_vaporwave_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 7
+key editorBGThumbNail vaporwaveroomthumb
+uint32 editorDaisType hash(rock)
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

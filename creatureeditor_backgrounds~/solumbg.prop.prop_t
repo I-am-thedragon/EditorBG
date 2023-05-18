@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_solum_mode_entry
+key editorBGLighting solumlights
+int32 editorBGOrder 19
+key editorBGThumbNail solumroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain
