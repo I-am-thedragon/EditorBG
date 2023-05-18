@@ -1,0 +1,7 @@
+key parent models!DefaultTemplate.prop
+uint32 editorDaisType hash(wood)
+bboxs modelDefaultBoundingBox
+	(-6.31393, -6.3139348, -0.40915) (6.3139338, 6.3139329, -0.142002)
+end
+float modelDefaultBoundingRadius 8.9386206
+key modelMeshLOD0 ce_beach_ground_plane-room_objects.rw4
