@@ -1,0 +1,6 @@
+key editorBGEntryEffect editor_outback_mode_entry
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 41
+key editorBGThumbNail outbackroomthumb
+uint32 editorDaisType hash(sand)
+key editorTestEnvironmentModel CE_test_mode_collision_terrain
