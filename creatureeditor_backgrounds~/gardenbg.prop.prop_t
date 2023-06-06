@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_garden_mode_entry
 key editorBGLighting genericcustomlights
 int32 editorBGOrder 44
-key editorBGThumbNail blissroomthumb
+key editorBGThumbNail gardenroomthumb
 key editorTestEnvironmentModel CE_test_mode_collision_terrain
