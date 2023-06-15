@@ -1,0 +1,5 @@
+key editorBGEntryEffect editor_infested_mode_entry
+key editorBGLighting infestedlights
+int32 editorBGOrder 45
+key editorBGThumbNail infestedroomthumb
+key editorTestEnvironmentModel CE_test_mode_collision_terrain
