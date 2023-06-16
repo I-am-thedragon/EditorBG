@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_cyberpunk_mode_entry
-key editorBGLighting genericcustomlights
+key editorBGLighting cyberpunklights
 int32 editorBGOrder 46
 key editorBGThumbNail infestedroomthumb
 key editorTestEnvironmentModel CE_test_mode_collision_terrain
